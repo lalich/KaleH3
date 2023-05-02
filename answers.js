@@ -68,7 +68,7 @@ console.log(dart)
 
 
 ////////////////////////////////
-// Yell at the Ninja Turtles ...
+// Yell at the Ninja Turtles ...not sure this is inline with the desired outcome but yelling occured I can promise!
 ////////////////////////////////
 
 const NinjaTurtles = ['Donatello', 'Leonardo', 'Raphael', 'Michaelangelo']
@@ -123,13 +123,28 @@ console.log(favMovies.indexOf('Fast and Furious'))
 
 
 ////////////////////////////////
-// Where is Waldo
+// Where is Waldo - I could not find the way@@@!!!//
 ////////////////////////////////
 
+// const whereIsWaldo = [["Timmy", "Frank"], "Eggbert",
+//                     ["Lucinda", "Jacc", "Neff", "Snoop"],
+//                     ["Petunia", ["Baked Goods", "Waldo"]]];
+
+
+//                     console.log(whereIsWaldo)
+
+
+//                     const whereiswaldo2 = whereIsWaldo.splice(1,1)
+// console.log(whereiswaldo2)
+
+// console.log(whereIsWaldo)
+
+// console.log(whereIsWaldo.indexOf('Waldo'))
 
 ////////////////////////////////
 //  Excited Kitten
 ////////////////////////////////
+
 
 
 ////////////////////////////////
