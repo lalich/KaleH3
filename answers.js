@@ -68,13 +68,56 @@ console.log(dart)
 
 
 ////////////////////////////////
-// Yell at the Ninja Turtles
+// Yell at the Ninja Turtles ...
 ////////////////////////////////
+
+
+
 
 
 ////////////////////////////////
 // Methods, Revisited
 ////////////////////////////////
+// I copied it from the assignment when I could no longer navigate past the usual suspects "the"//
+
+const favMovies = ['Jaws', 'The Fellowship of the Ring', 'Howl\'s Moving Castle', 'Django Unchained', 'Cloud Atlas', 'The Usual Suspects', 'Toy Story', 'Conan the Barbarian', 'Titanic', 'Harry Potter', 'Fried Green Tomatoes', 'Volver', 'Oculus', 'Seven', 'Black Panther', 'Harry Potter', 'Imitation of Life', 'Snatch', 'Fast and Furious'];
+
+console.log(favMovies.indexOf('Titanic'))
+
+favMovies.sort()
+console.log(favMovies)
+
+favMovies.pop()
+console.log(favMovies)
+
+favMovies.push('Guardians of the Galaxy')
+console.log(favMovies)
+
+favMovies.reverse()
+console.log(favMovies)
+
+favMovies.shift()
+console.log(favMovies)
+
+favMovies.unshift('Guardians of the Galaxy')
+console.log(favMovies)
+
+favMovies.splice(favMovies.indexOf('Django Unchained', 1, 'Avatar'))
+console.log(favMovies)
+
+
+const favmovies2 = favMovies.slice(3,8)
+console.log(favmovies2)
+console.log(favMovies[3])
+
+
+console.log(favMovies)
+
+console.log(favMovies.indexOf('Fast and Furious'))
+
+// From the class work I do not believe this scenario would call for using 'let'. However I am sure there are plenty of types of algos that would benefit from the usage??? Honestly I look forward to learning this assumptions accuracy!//
+
+
 
 
 ////////////////////////////////
