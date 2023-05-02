@@ -71,7 +71,9 @@ console.log(dart)
 // Yell at the Ninja Turtles ...
 ////////////////////////////////
 
-
+const NinjaTurtles = ['Donatello', 'Leonardo', 'Raphael', 'Michaelangelo']
+for (let [] of NinjaTurtles);
+console.log(NinjaTurtles + ' Cowabunga Dude!')
 
 
 
