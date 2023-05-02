@@ -145,8 +145,34 @@ console.log(favMovies.indexOf('Fast and Furious'))
 //  Excited Kitten
 ////////////////////////////////
 
+for (let i = 1; i <=20; i++){
+console.log('Love me, pet me! HSSSSSS!')
+}
+
+// console.log('Love me, pet me! HSSSSSS!')
+
+
+// if (i % 2 !== 0);
+//     console.log('Love me, pet me! HSSSSSS!')
+
+
+// else; if (i % 2 == 0){
+
+// console.log(kittytp[Math.random * 3])
+//  const kittytp = ['...human... why you taking pictures of me?', 'the catnip made me do it...', '...why does the red dot always get away...' ]
+
+//  let pur = 0
+//  kittytp[pur]
+//  let puff = 1
+//  kittytp[puff]
+//  let rDot = 2
+//  kittytp[rDot]
+
+// }
+
 
 
 ////////////////////////////////
 //  Find the Median
 ////////////////////////////////
+
